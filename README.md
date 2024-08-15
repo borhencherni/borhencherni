@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borhen Cherni</h1>
 <h3 align="center">Embedded Systems & Industrial Maintenance Engineer | Tech Enthusiast | AI & Robotics Expert</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/3da2e519e9d365c5c6fe62ecd7eec5b8/tumblr_ozom5a0X9o1qbgdnxo1_540.gifv">
+<img align="right" alt="Coding" width="200" src="https://64.media.tumblr.com/3da2e519e9d365c5c6fe62ecd7eec5b8/tumblr_ozom5a0X9o1qbgdnxo1_540.gifv">
 
 - 📫 How to reach me **borhencher35@gmail.com**
 
